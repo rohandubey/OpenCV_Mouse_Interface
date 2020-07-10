@@ -1,5 +1,5 @@
 # OpenCV_Mouse_Interface
-Introduction of OpenCV and pillow packages to make a program like paint.
+Introduction of OpenCV and pillow packages to make a program like Microsoft Paint.
 # Installation
 ```
 $ pip3 install opencv-contrib-python
