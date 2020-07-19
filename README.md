@@ -1,4 +1,8 @@
 # OpenCV_Mouse_Interface
+![pypi](https://img.shields.io/pypi/v/pybadges.svg)
+![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)
+[![PyPI status](https://img.shields.io/pypi/status/trains-jupyter-plugin.svg)](https://pypi.python.org/pypi/trains-jupyter-plugin/) 
+<br><br>
 Introduction of OpenCV and pillow packages to make a program like Microsoft Paint.
 # Installation
 ```
